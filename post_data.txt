@@ -1,0 +1,5 @@
+username=admin&password=123456
+search=DDOS&submit=Search
+login=true&token=random_value_123
+query=Layer7&results=all
+username=guest&password=guest123
