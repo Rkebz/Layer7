@@ -1,0 +1,5 @@
+en-US,en;q=0.9
+fr-FR,fr;q=0.9
+ar-EG,ar;q=0.9
+de-DE,de;q=0.9
+es-ES,es;q=0.9
